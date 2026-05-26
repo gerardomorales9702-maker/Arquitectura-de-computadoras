@@ -1,0 +1,172 @@
+# Project file C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# Compile of add32.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of AluControl.v was successful with warnings.
+# Compile of BR.v was successful with warnings.
+# Compile of branch_adder.v was successful with warnings.
+# Compile of DPTR.v failed with 1 errors.
+# Compile of DTPR.v was successful with warnings.
+# Compile of EX_MEM.v was successful with warnings.
+# Compile of ID_EX.v was successful with warnings.
+# Compile of IF_ID.v was successful with warnings.
+# Compile of IMEM.v was successful with warnings.
+# Compile of MEM.v was successful with warnings.
+# Compile of MEM_WB.v was successful with warnings.
+# Compile of MUX2_1.v was successful with warnings.
+# Compile of Mux21.v was successful with warnings.
+# Compile of pc.v was successful with warnings.
+# Compile of shift_left_2.v was successful with warnings.
+# Compile of sign_extend.v was successful with warnings.
+# Compile of TB_Final.v was successful with warnings.
+# Compile of UC.v was successful with warnings.
+# 20 compiles, 1 failed with 1 error.
+# Project file C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project fase3
+# Compile of add32.v was successful.
+# Compile of ALU.v was successful.
+# Compile of AluControl.v was successful.
+# Compile of BR.v was successful.
+# Compile of branch_adder.v was successful.
+# Compile of DPTR.v failed with 1 errors.
+# Compile of DTPR.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of MUX2_1.v was successful.
+# Compile of Mux21.v was successful.
+# Compile of pc.v was successful.
+# Compile of shift_left_2.v was successful.
+# Compile of sign_extend.v was successful.
+# Compile of TB_Final.v was successful.
+# Compile of UC.v was successful.
+# 20 compiles, 1 failed with 1 error.
+# Compile of add32.v was successful.
+# Compile of ALU.v was successful.
+# Compile of AluControl.v was successful.
+# Compile of BR.v was successful.
+# Compile of branch_adder.v was successful.
+# Compile of DPTR.v was successful.
+# Compile of DTPR.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of MUX2_1.v was successful.
+# Compile of Mux21.v was successful.
+# Compile of pc.v was successful.
+# Compile of shift_left_2.v was successful.
+# Compile of sign_extend.v was successful.
+# Compile of TB_Final.v was successful.
+# Compile of UC.v was successful.
+# 20 compiles, 0 failed with no errors.
+vsim work.DPTR_tb
+# vsim work.DPTR_tb 
+# Start time: 01:26:52 on May 24,2026
+# Loading work.DPTR_tb
+# Loading work.DPTR
+# Loading work.pc
+# Loading work.add32
+# Loading work.IMEM
+# Loading work.MUX2_1
+# Loading work.IF_ID
+# Loading work.UC
+# Loading work.BR
+# Loading work.sign_extend
+# Loading work.ID_EX
+# Loading work.Mux21
+# Loading work.ALuControl
+# Loading work.ALU
+# Loading work.branch_adder
+# Loading work.EX_MEM
+# Loading work.MEM
+# Loading work.MEM_WB
+add wave -position end sim:/DPTR_tb/uut/*
+run -all
+# ========================================
+# RESULTADO FINAL DE MEMORIA
+# ========================================
+# mem[0] =          8
+# mem[1] =          3
+# mem[2] =          1
+# mem[3] =          9
+# mem[4] =          5
+# mem[5] =          2
+# mem[6] =          7
+# mem[7] =          4
+# mem[8] =          6
+# ========================================
+# ** Note: $stop    : C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase3/TB_Final.v(47)
+#    Time: 500020 ns  Iteration: 0  Instance: /DPTR_tb
+# Break in Module DPTR_tb at C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase3/TB_Final.v line 47
+# Compile of add32.v was successful.
+# Compile of ALU.v was successful.
+# Compile of AluControl.v was successful.
+# Compile of BR.v was successful.
+# Compile of branch_adder.v was successful.
+# Compile of DPTR.v was successful.
+# Compile of DTPR.v was successful.
+# Compile of EX_MEM.v was successful.
+# Compile of ID_EX.v was successful.
+# Compile of IF_ID.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of MEM.v was successful.
+# Compile of MEM_WB.v was successful.
+# Compile of MUX2_1.v was successful.
+# Compile of Mux21.v was successful.
+# Compile of pc.v was successful.
+# Compile of shift_left_2.v was successful.
+# Compile of sign_extend.v was successful.
+# Compile of TB_Final.v was successful.
+# Compile of UC.v was successful.
+# 20 compiles, 0 failed with no errors.
+vsim work.DPTR_tb
+# End time: 01:28:25 on May 24,2026, Elapsed time: 0:01:33
+# Errors: 0, Warnings: 11
+# vsim work.DPTR_tb 
+# Start time: 01:28:25 on May 24,2026
+# Loading work.DPTR_tb
+# Loading work.DPTR
+# Loading work.pc
+# Loading work.add32
+# Loading work.IMEM
+# Loading work.MUX2_1
+# Loading work.IF_ID
+# Loading work.UC
+# Loading work.BR
+# Loading work.sign_extend
+# Loading work.ID_EX
+# Loading work.Mux21
+# Loading work.ALuControl
+# Loading work.ALU
+# Loading work.branch_adder
+# Loading work.EX_MEM
+# Loading work.MEM
+# Loading work.MEM_WB
+add wave -position end sim:/DPTR_tb/uut/*
+run -all
+# ========================================
+# RESULTADO FINAL DE MEMORIA
+# ========================================
+# mem[0] =          8
+# mem[1] =          3
+# mem[2] =          1
+# mem[3] =          9
+# mem[4] =          5
+# mem[5] =          2
+# mem[6] =          7
+# mem[7] =          4
+# mem[8] =          6
+# ========================================
+# ** Note: $stop    : C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase3/TB_Final.v(47)
+#    Time: 500020 ns  Iteration: 0  Instance: /DPTR_tb
+# Break in Module DPTR_tb at C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase3/TB_Final.v line 47
+# End time: 01:30:06 on May 24,2026, Elapsed time: 0:01:41
+# Errors: 0, Warnings: 1

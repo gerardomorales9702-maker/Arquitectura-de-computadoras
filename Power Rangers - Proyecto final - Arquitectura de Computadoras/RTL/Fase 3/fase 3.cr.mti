@@ -1,0 +1,179 @@
+{C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/Mux21.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/Mux21.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux21
+
+Top level modules:
+	Mux21
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/branch_adder.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/branch_adder.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branch_adder
+
+Top level modules:
+	branch_adder
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/add32.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/add32.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/MEM_WB.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/MEM_WB.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/MEM.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/MEM.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/UC.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/UC.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UC
+
+Top level modules:
+	UC
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/sign_extend.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/sign_extend.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/shift_left_2.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/shift_left_2.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_left_2
+
+Top level modules:
+	shift_left_2
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/pc.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/pc.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/AluControl.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/AluControl.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALuControl
+
+Top level modules:
+	ALuControl
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/EX_MEM.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/EX_MEM.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/BR.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/BR.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+
+Top level modules:
+	BR
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/TB_Final.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/TB_Final.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPTR_tb
+
+Top level modules:
+	DPTR_tb
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/IMEM.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/IMEM.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/ID_EX.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/ID_EX.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/ALU.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/ALU.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/DPTR.v} {0 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/DPTR.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPTR
+** Error: (vlog-13069) C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/DPTR.v(99): near "EOF": syntax error, unexpected end of source code, expecting .* or '.'.
+
+} {6.0 7.0} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/DTPR.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/DTPR.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DTPR
+
+Top level modules:
+	DTPR
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/IF_ID.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/IF_ID.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/MUX2_1.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/MUX2_1.v}
+** Warning: (vlog-14) Failed to open "C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/fase 3/fase 3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX2_1
+
+Top level modules:
+	MUX2_1
+
+} {} {}}
