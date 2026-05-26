@@ -1,0 +1,16 @@
+module pc(
+	input clk,	 
+	input reset,
+	input [31:0]addnew,
+	output reg[31:0]address
+);
+
+always @(posedge clk or posedge reset)
+begin
+	if(reset)
+		address<=32'b0;
+	else
+		address<=addnew;
+end
+
+endmodule
